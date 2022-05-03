@@ -1,3 +1,3 @@
 # OfficeFor\_
 
-<img src="./pannel_1.png">
+<img src="./pan.png">
